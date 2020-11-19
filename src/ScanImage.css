@@ -1,0 +1,16 @@
+.griddisplay {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 10px;
+	margin: 10px;
+	grid-gap: 30px;
+
+}
+
+.scanimage {
+	border-radius: 25px;
+	border-color: grey;
+	box-shadow: 5px 5px grey;
+	height: 600px; 
+	width: 600px;
+}

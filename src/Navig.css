@@ -1,0 +1,12 @@
+.buttondisp {
+	background-color: black;
+	color:white;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 5px;
+	cursor: pointer;
+	border-radius: 25px;
+	transition: all .2s ease-in-out;
+}
+
+.buttondisp:hover { transform: scale(1.1); }
