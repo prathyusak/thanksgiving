@@ -5,7 +5,7 @@ import Navig from './Navig';
 import {target,macys,walmart,jcpenny,costco,ashley,lowes,staples,homedepot} from './Urlinfo';
 
 function App() {
-  const [url,seturl] =useState(target)  
+  const [url,seturl] =useState(macys)  
   const [link,setlink] =useState('')
   const handleClick = (x) => {
      switch(x) {
