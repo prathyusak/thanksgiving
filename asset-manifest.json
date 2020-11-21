@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/thanksgiving/static/css/main.341736e1.chunk.css",
-    "main.js": "/thanksgiving/static/js/main.8e5a5e39.chunk.js",
-    "main.js.map": "/thanksgiving/static/js/main.8e5a5e39.chunk.js.map",
+    "main.css": "/thanksgiving/static/css/main.b68235ba.chunk.css",
+    "main.js": "/thanksgiving/static/js/main.699ef6f6.chunk.js",
+    "main.js.map": "/thanksgiving/static/js/main.699ef6f6.chunk.js.map",
     "runtime-main.js": "/thanksgiving/static/js/runtime-main.28887109.js",
     "runtime-main.js.map": "/thanksgiving/static/js/runtime-main.28887109.js.map",
     "static/js/2.b2ca0d20.chunk.js": "/thanksgiving/static/js/2.b2ca0d20.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.3a6f507f.chunk.js": "/thanksgiving/static/js/3.3a6f507f.chunk.js",
     "static/js/3.3a6f507f.chunk.js.map": "/thanksgiving/static/js/3.3a6f507f.chunk.js.map",
     "index.html": "/thanksgiving/index.html",
-    "static/css/main.341736e1.chunk.css.map": "/thanksgiving/static/css/main.341736e1.chunk.css.map",
+    "static/css/main.b68235ba.chunk.css.map": "/thanksgiving/static/css/main.b68235ba.chunk.css.map",
     "static/js/2.b2ca0d20.chunk.js.LICENSE.txt": "/thanksgiving/static/js/2.b2ca0d20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.28887109.js",
     "static/js/2.b2ca0d20.chunk.js",
-    "static/css/main.341736e1.chunk.css",
-    "static/js/main.8e5a5e39.chunk.js"
+    "static/css/main.b68235ba.chunk.css",
+    "static/js/main.699ef6f6.chunk.js"
   ]
 }
